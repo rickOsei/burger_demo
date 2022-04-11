@@ -1,0 +1,226 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+.navbar{
+    background-color: rgb(0, 0, 0) !important;
+    margin-top: -20px;
+}
+
+.navbar-nav{
+    margin-left: 100px !important;
+}
+
+.nav-item a{
+    color: aliceblue !important;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.top h1{
+    font-size: 55px;
+    font-weight: 850;
+    margin-bottom: 40px;
+    color: aliceblue;
+    letter-spacing: 1px;
+    line-height: 70px;
+}
+
+.top p{
+    color: aliceblue;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 25px;
+    font-weight: 300;
+}
+
+.gold{
+    color: #bba14f;
+    font-weight: 850;
+}
+
+.top .btn{
+    margin-top: 40px;
+    border: none;
+    font-size: 12px;
+    color: aliceblue;
+    width: 170px;
+    height: 60px;
+    border-radius: 75px;
+    box-shadow: 1px 1px 3px 1px #a08736;
+}
+
+.top_img img{
+    width: 450px;
+    height: 400px;
+}
+
+.middle{
+    margin-top: 120px;
+}
+
+.middle .caption{
+    color: rgb(166, 175, 182);
+    font-size: 14px;
+    font-weight: 300;
+    margin-bottom: 30px;
+    letter-spacing: 1.2px;
+}
+
+.middle p{
+    color: aliceblue;
+    margin-top: -5px;
+}
+
+.middle h2{
+    font-size: 30px;
+    font-weight: 850;
+    margin-bottom: 40px;
+    color: aliceblue;
+    letter-spacing: 1.2px;
+}
+
+.bottom{
+    margin-top: 120px;
+}
+
+.bottom_text{
+    margin-right: -100px;
+}
+
+.bottom .caption{
+    color: rgb(166, 175, 182);
+    font-size: 14px;
+    font-weight: 300;
+    margin-bottom: 30px;
+    letter-spacing: 1.2px;
+}
+
+.bottom p{
+    color: aliceblue;
+    margin-top: -5px;
+}
+
+.bottom h2{
+    font-size: 30px;
+    font-weight: 850;
+    margin-bottom: 40px;
+    color: aliceblue;
+    letter-spacing: 1.2px;
+}
+
+.banners{
+    margin-top: 130px;
+    padding-left: 210px;
+    padding-top: 120px;
+    height: 550px;
+    background: url('/individuals/images/bg-ind1.jpg');
+}
+
+.banner p{
+    font-size: 40px;
+    font-weight: 850;
+    margin-bottom: 40px;
+    color: aliceblue;
+}
+
+.btn_banner{
+    margin-top: 5px;
+    border: none;
+    font-size: 12px;
+    color: black;
+    width: 170px;
+    height: 55px;
+    border-radius: 75px;
+    box-shadow: 2px 2px 4px 1px gray;
+}
+
+.footer{
+    margin-top: 70px;
+    padding-left: 170px;
+}
+
+.footer #google{
+    position: relative;
+    bottom: -8px;
+    right: 65px;
+}
+
+.footer #appstore{
+    position: relative;
+    right: 20px;
+}
+
+.footer h1{
+    font-size: 30px;
+    font-weight: 850;
+    margin-bottom: 40px;
+    color: aliceblue;
+    letter-spacing: 1.2px;
+    line-height: 45px;
+}
+
+.footer p{
+    color: aliceblue;
+    font-size: 13px;
+    font-weight: 300;
+    margin-top: -20px;
+    margin-bottom: 40px;
+}
+
+#select-lang{
+    width: 280px;
+    height: 40px;
+    border-radius: 7px;
+    padding-left: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    color: rgb(198, 206, 211);
+    background-color: black;
+    border: none;
+    box-shadow: 1px 1px 3px 0.5px #a08736;
+    margin-bottom: 20px;
+}
+
+i{
+    color: aliceblue;
+    margin: 10px;
+}
+
+footer ul{
+    list-style: none;
+    position: relative;
+    left: -40px;
+}
+
+footer h2{
+    margin-bottom: 20px;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+footer li{
+    margin-bottom: 20px;
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-weight: 300;
+    color: rgb(170, 178, 185);
+}
+
+.support, .add-ons{
+    margin-top: 60px;
+}
+
+.developers{
+    margin-top: 100px;
+}
+
+.second{
+    margin-left: 70px;
+}
+
